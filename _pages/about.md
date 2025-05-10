@@ -60,7 +60,7 @@ In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SlowLiDAR_Increasing_the_Latency_of_LiDAR-Based_Detection_Using_Adversarial_Examples_CVPR_2023_paper.pdf)] [[Code](https://github.com/WUSTL-CSPL/SlowLiDAR)] 
 
 ### <span style="color:#52ADC8">IP Protection in TinyML</span>
-Jinwen Wang\*, Yuhao Wu\*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
+Jinwen Wang\*, Yuhao Wu\*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\ [[PDF](/assets/IP_Protection_in_TinyML.pdf)]
 In *ACM/IEEE Design Automation Conference (DAC)*, 2023.
 
 ### <span style="color:#52ADC8">When Evil Calls: Targeted Adversarial Voice over IP Network</span>
