@@ -1,35 +1,64 @@
 ---
 permalink: /
-title: "About Me"
+title: "Han Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/), advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). Prior to that, I received dual Bachelor's degrees in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and [University of Glasgow (UoG)](https://www.gla.ac.uk/) (Graduated with First-class honor degree) in 2020. Additionally, I worked as a machine learning engineer at [Tencent](https://www.tencent.com/) from 2020 to 2021, and I was an applied scientist intern at [Amazon](https://www.amazon.science/) in the summer of 2023. Most recently, I worked as a research scientist intern at [Meta](https://research.facebook.com/) in the summer of 2024 and am currently continuing with Meta as a part-time student researcher for the Fall of 2024.
+
+### Ph.D. Student
+
+[Department of Computer Science and Engineering](https://cse.wustl.edu/)  
+[Washington University in St. Louis](https://wustl.edu/)  
+Advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html)
+
+**Address:** One Brookings Drive, St. Louis, MO 63130, USA  
+**Email:** h.liu1@wustl.edu
+
+[<i class="fab fa-github"></i>](https://github.com/masterendless)
+[<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/han-liu-539176239)
+[<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=-Sovlv0AAAAJ&hl=en)
+## Biography
+
+I am currently a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/), advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). 
+
+Prior to that, I received dual Bachelor's degrees in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and [University of Glasgow (UoG)](https://www.gla.ac.uk/) (Graduated with First-class honor degree) in 2020.
+
+I have extensive industry experience:
+- Research Scientist Intern at [Meta](https://research.facebook.com/) (Summer 2024)
+- Part-time Student Researcher at Meta (Fall 2024)
+- Applied Scientist Intern at [Amazon](https://www.amazon.science/) (Summer 2023)
+- Machine Learning Engineer at [Tencent](https://www.tencent.com/) (2020-2021)
 
 <span style="color:red;">I am expected to graduate in May 2025 and am actively seeking full-time opportunities for research or applied scientist positions. Feel free to contact me at h.liu1@wustl.edu.</span>
 
-Research Interests
-======
-- Security and Privacy of Machine Learning, Large Language Model, Generative AI, and Information Retrieval
+## Research Interests
 
-What's New
-======
-- [September 2024] I will start a new position as Student Researcher in Meta this fall!
-- [May 2024] I will start a new position as Research Scientist Intern in Meta this summer!
-- [Oct 2023] One paper titled "Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack" got accepted in [IEEE S&P 2024](https://sp2024.ieee-security.org/index.html)!
-- [May 2023] I will start a new position as Applied Scientist Intern in Amazon this summer!
-- [February 2023] Two papers titled "RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts" and "SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples" got accepted in [CVPR 2023](https://cvpr2023.thecvf.com/)!
+My research focuses on:
+- Security and Privacy of Machine Learning
+- Large Language Models and Generative AI
+- Information Retrieval
+- AI System Security
+
+## Recent News
+
+■ [09/2024] Started a new position as Student Researcher at Meta
+■ [05/2024] Started a new position as Research Scientist Intern at Meta
+■ [10/2023] Paper accepted at [IEEE S&P 2024](https://sp2024.ieee-security.org/index.html): "Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack"
+■ [05/2023] Started a new position as Applied Scientist Intern at Amazon
+■ [02/2023] Two papers accepted at [CVPR 2023](https://cvpr2023.thecvf.com/):
+  - "RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts"
+  - "SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples"
 - [February 2023] One paper titled "IP Protection in TinyML" got accepted in [DAC 2023](https://www.dac.com/)!
 - [August 2022] One paper titled "When Evil Calls: Targeted Adversarial Voice over IP Network" got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [August 2022] One paper titled "PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference" got accepted in [RTSS 2022](http://2022.rtss.org/)!
 - [August 2022] One paper titled "From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM" got accepted in [IROS 2022](https://iros2022.org/)!
 
-Publications
-======
-### <span style="color:#52ADC8">Sequential LLM Framework for Fashion Recommendation</span>
+## Publications
+
+■ **Sequential LLM Framework for Fashion Recommendation**
 <b>Han Liu</b>, Xianfeng Tang, Tianlang Chen, Jiapeng Liu, Indu Indu, Henry Peng Zou, Peng Dai, Roberto Fernandez Galan, Michael D Porter, Dongmei Jia, Ning Zhang, Lian Xiong.\
 In *2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. \
 [[PDF](https://arxiv.org/pdf/2410.11327)] 
