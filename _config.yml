@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Han Liu"
+  #name             : "Han Liu"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at Washington University in St. Louis"
+  bio              : "AI Research Scientist at Meta"
   location         : "Saint Louis, U.S."
   employer         :
   email           : "h.liu1@wustl.edu"
