@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Han Liu"
 title_separator          : "|"
-name                     : &name "Han Liu"
-description              : &description "Ph.D. student at Washington University in St. Louis"
+#name                     : &name "Han Liu"
+description              : &description "AI Research Scientist at Meta"
 url                      : https://masterendless.github.io
 baseurl                  : ""
 repository               : "masterendless.github.io"
