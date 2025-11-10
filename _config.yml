@@ -82,8 +82,8 @@ analytics:
 author:
   #name             : "Han Liu"
   avatar           : "profile.jpg"
-  bio              : "AI Research Scientist at Meta"
-  location         : "Saint Louis, U.S."
+  #bio              : "AI Research Scientist at Meta"
+  #location         : "Saint Louis, U.S."
   employer         :
   email           : "h.liu1@wustl.edu"
   googlescholar   : "https://scholar.google.com/citations?user=-Sovlv0AAAAJ&hl=en"
