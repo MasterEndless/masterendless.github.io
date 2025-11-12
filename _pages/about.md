@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Han Liu"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 ## Biography
-
 
 I am currently a AI Research Scientist at Meta. I received my Ph.D. in Computer Science from Washington University in St. Louis. Prior to that, I earned dual Bachelor's degrees in Communication Engineering from the University of Electronic Science and Technology of China and the University of Glasgow, graduating with First-Class Honours.
 
@@ -60,8 +59,7 @@ Ao Li, **Han Liu**, Jinwen Wang, Ning Zhang
 In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)
 
 
-Services
-======
+## Services
 
 ### Conference Reviewer
 - International Conference on Machine Learning (ICML) 2025 (**Notable Reviewer**)
@@ -69,7 +67,7 @@ Services
 - Conference on Neural Information Processing Systems (NeurIPS) 2024, 2025
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024, 2026
 - AAAI Conference on Artificial Intelligence (AAAI) 2024, 2025, 2026
-- International World Wide Web Conference (WWW) 2024, 2026
+- International World Wide Web Conference (WWW) 2024, 2025, 2026
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, 2026
 - Annual Meeting of the Association for Computational Linguistics (ACL) 2024
 - British Machine Vision Conference (BMVC) 2023
